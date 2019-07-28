@@ -119,6 +119,6 @@ public class Total {
         }
         System.out.println("Lyft: "+totlyft);
         tot+=totlyft;
-        System.out.println("Total: "+tot);;
+        System.out.println("Total: "+tot);
     }
 }
